@@ -3,6 +3,7 @@
 # IC Design bootcamp 
 
 - [Read the documentation for project](docs/info.md)
+- sdadas
 
 ## What is Tiny Tapeout?
 
